@@ -1,2 +1,6 @@
 # ExploratoryDataAnalysis_Project1
-This repository is the first project I made after I decided to explore the science of data science. The purpose of making this project is so that I can further understand the knowledge I gained from the Data Scientist Class online and practise it directly.
+Before doing further statistical analysis or creating predictive modeling, usually a data scientist will first focus on EDA.
+
+What is EDA?
+
+Exploratory Data Analysis (EDA) is the initial stage of data analysis. The goal is for a data scientist to understand the characteristics, structure, and important components of a dataset, before processing it in a more complex manner.
